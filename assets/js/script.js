@@ -49,7 +49,7 @@ inquirer.prompt([{
       <p>
         Contact Info:
         <li><a href="https://github.com/${response.GhUsername}">Github: </a></li>
-        <li><a href="${response.username}">LinkedIn: </a></li>
+        <li><a href="${response.Liurl}">LinkedIn: </a></li>
       </p>
     </div>
   </body>
